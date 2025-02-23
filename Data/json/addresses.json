@@ -1,0 +1,47 @@
+[
+    {
+        "postalAddressId": 1,
+        "addressTypeId": 2,
+        "addressLine": "Tessins väg 18A"
+    },
+    {
+        "postalAddressId": 2,
+        "addressTypeId": 2,
+        "addressLine": "Tobaksvägen 10"
+    },
+    {
+        "postalAddressId": 3,
+        "addressTypeId": 2,
+        "addressLine": "35 Grand Avenue"
+    },
+    {
+        "postalAddressId": 4,
+        "addressTypeId": 1,
+        "addressLine": "2 Langdale Gardens"
+    },
+    {
+        "postalAddressId": 4,
+        "addressTypeId": 3,
+        "addressLine": "2 Langdale Gardens"
+    },
+    {
+        "postalAddressId": 5,
+        "addressTypeId": 1,
+        "addressLine": "80 Stonebridge Park"
+    },
+    {
+        "postalAddressId": 5,
+        "addressTypeId": 3,
+        "addressLine": "80 Stonebridge Park"
+    },
+    {
+        "postalAddressId": 6,
+        "addressTypeId": 1,
+        "addressLine": "2 Colville Road"
+    },
+    {
+        "postalAddressId": 6,
+        "addressTypeId": 3,
+        "addressLine": "2 Colville Road"
+    }
+]

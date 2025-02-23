@@ -1,0 +1,38 @@
+[
+    {
+        "ingredientId": 1,
+        "supplierId": 1
+    },
+    {
+        "ingredientId": 2,
+        "supplierId": 1
+    },
+    {
+        "ingredientId": 3,
+        "supplierId": 1
+    },
+    {
+        "ingredientId": 4,
+        "supplierId": 2
+    },
+    {
+        "ingredientId": 5,
+        "supplierId": 2
+    },
+    {
+        "ingredientId": 6,
+        "supplierId": 2
+    },
+    {
+        "ingredientId": 7,
+        "supplierId": 3
+    },
+    {
+        "ingredientId": 8,
+        "supplierId": 3
+    },
+    {
+        "ingredientId": 9,
+        "supplierId": 3
+    }
+]

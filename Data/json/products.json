@@ -1,0 +1,44 @@
+[
+    {
+        "productId": 1,
+        "name": "Kanelbullar",
+        "pricePackage": 66.99,
+        "weightInKg": 1,
+        "amountInPackage": 4
+    },
+    {
+        "productId": 2,
+        "name": "Semlor",
+        "pricePackage": 70.99,
+        "weightInKg": 1.2,
+        "amountInPackage": 2
+    },
+    {
+        "productId": 3,
+        "name": "Pistagebiskvier",
+        "pricePackage": 65.99,
+        "weightInKg": 0.8,
+        "amountInPackage": 4
+    },
+    {
+        "productId": 4,
+        "name": "Croissant",
+        "pricePackage": 48.99,
+        "weightInKg": 0.58,
+        "amountInPackage": 2
+    },
+    {
+        "productId": 5,
+        "name": "Kokostoppar",
+        "pricePackage": 29.99,
+        "weightInKg": 0.95,
+        "amountInPackage": 3
+    },
+    {
+        "productId": 6,
+        "name": "Mini Cupcakes",
+        "pricePackage": 39.99,
+        "weightInKg": 1.2,
+        "amountInPackage": 8
+    }
+]

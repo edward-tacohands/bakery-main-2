@@ -1,0 +1,32 @@
+[
+    {
+        "contactPerson": "Maximilian Lu",
+        "phoneNumber": "0724341411",
+        "email": "max@gmail.com"
+    },
+    {
+        "contactPerson": "Olivia Rodrigo",
+        "phoneNumber": "0744433322",
+        "email": "or@gmail.com"
+    },
+    {
+        "contactPerson": "Anna Bååth",
+        "phoneNumber": "0743141177",
+        "email": "anna@gmail.com"
+    },
+    {
+        "contactPerson": "Ollie Samson",
+        "phoneNumber": "074142323",
+        "email": "ollie@gmail.com"
+    },
+    {
+        "contactPerson": "Georgina De La Cour",
+        "phoneNumber": "05111521",
+        "email": "georgie@gmail.com"
+    },
+    {
+        "contactPerson": "Joachim Cook",
+        "phoneNumber": "0753151513",
+        "email": "jojo@gmail.com"
+    }
+]
