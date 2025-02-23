@@ -11,7 +11,7 @@ using bageri.api.Data;
 namespace bageri.api.Data.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20250222201919_Sqlite")]
+    [Migration("20250223185221_Sqlite")]
     partial class Sqlite
     {
         /// <inheritdoc />
