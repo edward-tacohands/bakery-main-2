@@ -75,12 +75,13 @@ public class OrderRepository : IOrderRepository
             }
 
             var productIds = model.Products.Select(p => p.ProductId).ToList();
-            var existingProducts = await _context.Products.Where(p => productIds.Contains(p.ProductId)).ToListAsync();
+            var existingProducts = (await _context.Products.ToListAsync()) 
+                .Where(p => productIds.Contains(p.ProductId))  
+                .ToList();
 
             var newOrder = new Order
             {
                 OrderDate = model.OrderDate,
-                //OrderNumber = model.OrderNumber,
                 OrderProducts = []
             };
 

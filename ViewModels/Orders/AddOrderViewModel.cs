@@ -9,7 +9,6 @@ namespace bageri.api.ViewModels.Orders;
 
 public class AddOrderViewModel : AddCustomerViewModel
 {
-    //public string OrderNumber { get; set; }
     public DateTime OrderDate { get; set; }
     public IList<GetProductForOrdersViewModel> Products { get; set; }
 
